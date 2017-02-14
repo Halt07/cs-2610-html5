@@ -53,7 +53,8 @@
     color:transparent;
 }
 .dinoegg:hover{
-    font-size: 99px;
+    font-size: 50px;
+    word-spacing: 10px;
     animation: dino 10s;
 	animation-iteration-count: infinite;
 }
